@@ -1,11 +1,6 @@
-<div>
   <p align="center">
-    <!-- <img src=".github/assets/cards.png" alt=""></a> -->
+   <img src=".github/assets/calculadora.png" alt=""></a>
   </p>
-</div>
-<div>
-  <!-- <p align="center"><img src=".github/assets/png" alt=""></a><p> -->
-</div>
 
 <p align="center">
  Projeto Calculadora em  React JS
